@@ -1,0 +1,9 @@
+com/manav/configs/WebInitializer.class
+com/manav/dao/CustomerDao.class
+com/manav/configs/WebConfig.class
+com/manav/service/CustomerServiceImpl.class
+com/manav/model/Customer.class
+com/manav/dao/CustomerDaoImpl.class
+com/manav/configs/HibernateConfig.class
+com/manav/service/CustomerService.class
+com/manav/controller/CustomerController.class
